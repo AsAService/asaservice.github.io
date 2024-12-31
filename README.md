@@ -1,25 +1,21 @@
+# Welcome to as a service
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/repository-template)
-![GitHub License](https://img.shields.io/github/license/MaxGripe/repository-template)
-![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/repository-template)
-![GitHub forks](https://img.shields.io/github/forks/MaxGripe/repository-template)
-![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/repository-template)
+As a service is a blog about different thoughts I have. 
 
+## Who? 
 
-# Template Repository
+I am Kushal. 
+I work as a web developer. 
 
-This repository serves as a template for starting new projects.
+## What? 
 
-## Features
+As a service is a place to write mostly about software development. 
 
-- Easy setup
-- Customizable configurations
-- Some popular badges already in place
+## Why? 
 
-## Getting started
+This is an excuse for me to try out MaxGripe repository template. 
+Give it a try on [GitHub](https://github.com/MaxGripe/repository-template). 
 
-To use this template, select it from the **Repository template** dropdown when creating a new repository.
+## How? 
 
-## License
-
-This project is released under the [Unlicense](LICENSE) license.
+I have no idea so far. 
